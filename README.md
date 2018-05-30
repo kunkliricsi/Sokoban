@@ -1,6 +1,6 @@
 # Sokoban in C
 
-This was a school project in the first year of University (my very first *big* project).
+This is the first *bigger* project I've made as a school assignment for my University.
 
 Sokoban is a game where you push blocks around into given positions in order to solve the level. This is a representation of that game written in C. 
 Although it's a console application its pretty graphical.
