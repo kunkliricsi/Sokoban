@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1447431485 source:e:\program files\codeblocks\programs\sokoban_hf\econio.c
+	"header_sokoban.h"
+
+1447433568 e:\program files\codeblocks\programs\sokoban_hf\header_sokoban.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header_game_main.h"
+	"header_game_modes.h"
+	"header_game_cores.h"
+	"header_highscore.h"
+	"header_econio.h"
+
+1447432166 e:\program files\codeblocks\programs\sokoban_hf\header_main.h
+
+1447433366 e:\program files\codeblocks\programs\sokoban_hf\header_game_main.h
+
+1447432251 e:\program files\codeblocks\programs\sokoban_hf\header_game_modes.h
+
+1447433378 e:\program files\codeblocks\programs\sokoban_hf\header_game_cores.h
+
+1447432641 e:\program files\codeblocks\programs\sokoban_hf\header_highscore.h
+
+1447429494 e:\program files\codeblocks\programs\sokoban_hf\header_econio.h
+	<windows.h>
+
+1447515687 source:e:\program files\codeblocks\programs\sokoban_hf\game_cores.c
+	"header_sokoban.h"
+
+1447433591 source:e:\program files\codeblocks\programs\sokoban_hf\game_main.c
+	"header_sokoban.h"
+
+1447519556 source:e:\program files\codeblocks\programs\sokoban_hf\game_modes.c
+	"header_sokoban.h"
+
+1447433614 source:e:\program files\codeblocks\programs\sokoban_hf\highscore.c
+	"header_sokoban.h"
+
+1447434156 source:e:\program files\codeblocks\programs\sokoban_hf\main.c
+	"header_sokoban.h"
+
+1449418276 source:e:\program files\codeblocks\programs\sokoban\econio.c
+	"header_sokoban.h"
+
+1449418273 e:\program files\codeblocks\programs\sokoban\header_sokoban.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1447433366 e:\program files\codeblocks\programs\sokoban\header_game_main.h
+
+1447432251 e:\program files\codeblocks\programs\sokoban\header_game_modes.h
+
+1447433378 e:\program files\codeblocks\programs\sokoban\header_game_cores.h
+
+1447432641 e:\program files\codeblocks\programs\sokoban\header_highscore.h
+
+1447429494 e:\program files\codeblocks\programs\sokoban\header_econio.h
+	<windows.h>
+
+1449440488 source:e:\program files\codeblocks\programs\sokoban\game_cores.c
+	"header_sokoban.h"
+
+1462401673 source:e:\program files\codeblocks\programs\sokoban\game_main.c
+	"header_sokoban.h"
+
+1449417567 source:e:\program files\codeblocks\programs\sokoban\highscore.c
+	"header_sokoban.h"
+
+1449415616 source:e:\program files\codeblocks\programs\sokoban\main.c
+	"header_sokoban.h"
+
+1449416004 source:e:\program files\codeblocks\programs\sokoban\game_modes.c
+	"header_sokoban.h"
+
+1449417665 source:e:\program files\codeblocks\programs\sokoban\options.c
+	"header_sokoban.h"
+
+1449417663 source:e:\program files\codeblocks\programs\sokoban\about.c
+	"header_sokoban.h"
+
+1449434600 source:e:\program files\codeblocks\programs\sokoban\map_creator.c
+	"header_sokoban.h"
+
